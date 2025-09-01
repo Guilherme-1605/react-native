@@ -16,3 +16,10 @@
 
 - git config --global user.name "Guilherme-1605"
 - git config --global user.email "guilhermepenna155@gmail.com"
+
+# Tipos de navegação que posso utilizar com expo router
+
+- Stack = pilhas de páginas
+- Tabs = Barra fixa com ícones de navegação ao pé do app
+- Drawer = Barra lateral
+- Modal = Janela que abre na frente
